@@ -11,6 +11,7 @@ Building scalable APIs and production systems.
 Backend engineer passionate about building production-grade systems. I specialize in designing clean REST APIs, optimizing databases, and shipping reliable services to real users. Hackathon Finalist 2025 with StockWiz for technical architecture and seamless AI-to-Data integration.
 
 ---
+📈 164 contributions last year | 56 repositories 
 
 ## 🚀 Featured Projects
 
@@ -18,11 +19,11 @@ Backend engineer passionate about building production-grade systems. I specializ
 |---|---|---|
 | **🏆 StockWiz** | **📊 LinkSnap** | **♟️ ChessSync** |
 | AI stock analysis with Gemini API | Production URL shortener, 99.9% uptime | Real-time multiplayer chess |
-| [GitHub](https://github.com/mishra-pankaj/StockWiz) | [GitHub](https://github.com/mishra-pankaj/linksnap) \| [Live](https://linksnap.vercel.app) | [GitHub](https://github.com/mishra-pankaj/ChessSync) |
+| [GitHub](https://github.com/mishra-pankaj/StockWiz) | [GitHub](https://github.com/mishra-pankaj/linksnap) \| [Live](https://linksnap-mxuh.vercel.app/) | [GitHub](https://github.com/mishra-pankaj/ChessSync) |
 | | | |
 | **💰 CryptoAi** | **🎵 MusicBee** | **🏦 Bank Ledger** |
 | Cryptocurrency analysis with AI insights | Music streaming platform for creators and listeners | Secure banking system with transactions |
-| [GitHub](https://github.com/mishra-pankaj/CryptoAi) | [GitHub](https://github.com/mishra-pankaj/MusicBee) | [GitHub](https://github.com/mishra-pankaj/BankLedger) |
+| [GitHub](https://github.com/mishra-pankaj/CryptoAi) | [GitHub](https://github.com/mishra-pankaj/MusicBee) | [GitHub](https://github.com/mishra-pankaj/Bank-ledger) |
 
 ---
 
