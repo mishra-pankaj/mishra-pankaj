@@ -1,14 +1,18 @@
 # Hey there! 👋 I'm Pankaj Mishra
 
-**Backend-focused Fullstack Developer** | Node.js · Python · MongoDB · PostgreSQL
-
-Building scalable APIs and production systems.
+ Software Developer | Node.js · Python · React.js · MongoDB · PostgreSQL |
+ 
+Building Real-time APIs & AI-integrated Systems 
 
 ---
 
 ## 🎯 About Me
 
-Backend engineer passionate about building production-grade systems. I specialize in designing clean REST APIs, optimizing databases, and shipping reliable services to real users. Hackathon Finalist 2025 with StockWiz for technical architecture and seamless AI-to-Data integration.
+Software developer with full-stack experience building and deploying production systems using JavaScript/Node.js, React,
+Python, and MongoDB/PostgreSQL. Built and shipped end-to-end applications: an AI-integrated financial platform
+(hackathon finalist), a real-time WebSocket-based multiplayer app, and a URL shortener with sub-100ms performance and
+99.9% uptime. Strong grounding in data structures, algorithms, and system design, with hands-on experience across API
+design, database optimization, and deployment.
 
 ---
 📈 164 contributions last year | 56 repositories 
