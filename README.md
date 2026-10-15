@@ -21,9 +21,9 @@ design, database optimization, and deployment.
 
 | | | |
 |---|---|---|
-| **🏆 StockWiz** | **📊 LinkSnap** | **♟️ ChessSync** |
-| AI stock analysis with Gemini API | Production URL shortener, 99.9% uptime | Real-time multiplayer chess |
-| [GitHub](https://github.com/mishra-pankaj/StockWiz) | [GitHub](https://github.com/mishra-pankaj/linksnap) \| [Live](https://linksnap-mxuh.vercel.app/) | [GitHub](https://github.com/mishra-pankaj/ChessSync) |
+| **🏆 StockWiz** | **📊 LinkSnap** | ** Reseach Forge** |
+| AI stock analysis with Gemini API | Production URL shortener, 99.9% uptime | Multi agent Research Platform(IN PROGRESS) |
+| [GitHub](https://github.com/mishra-pankaj/StockWiz) | [GitHub](https://github.com/mishra-pankaj/linksnap) \| [Live](https://linksnap-mxuh.vercel.app/) | [GitHub](https://github.com/mishra-pankaj/ResearchForge) |
 | | | |
 | **💰 CryptoAi** | **🎵 MusicBee** | **🏦 Bank Ledger** |
 | Cryptocurrency analysis with AI insights | Music streaming platform for creators and listeners | Secure banking system with transactions |
