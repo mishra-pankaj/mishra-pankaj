@@ -21,7 +21,7 @@ design, database optimization, and deployment.
 
 | | | |
 |---|---|---|
-| **🏆 StockWiz** | **📊 LinkSnap** | ** Reseach Forge** |
+| **🏆 StockWiz** | **📊 LinkSnap** |  Reseach Forge |
 | AI stock analysis with Gemini API | Production URL shortener, 99.9% uptime | Multi agent Research Platform(IN PROGRESS) |
 | [GitHub](https://github.com/mishra-pankaj/StockWiz) | [GitHub](https://github.com/mishra-pankaj/linksnap) \| [Live](https://linksnap-mxuh.vercel.app/) | [GitHub](https://github.com/mishra-pankaj/ResearchForge) |
 | | | |
